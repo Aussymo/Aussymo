@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there and welcome 👋
 
-<!--
-**Aussymo/Aussymo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a Netflix look-alike
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you would like
 
 - 📫 How to reach me:
-    [linkedin](https://www.linkedin.com/in/austin-reed0824/)
+    [linkedin](https://www.linkedin.com/in/austin-reed0824)
 
 - ⚡ Fun fact: I love anything sports related!
--->
+
