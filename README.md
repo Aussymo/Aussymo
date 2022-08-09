@@ -1,6 +1,9 @@
+![](https://www.canva.com/design/DAFDbU7QV1g/view)
+
+
+
+
 ### Hi there and welcome 👋
-
-
 
 
 - 🔭 I’m currently working on a Netflix look-alike
